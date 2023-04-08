@@ -14,5 +14,5 @@ for (i = o; i < argc; i++)
 {
 prinntf("%s\n", argv[i]);
 }
-return (o)
+return (o);
 }
